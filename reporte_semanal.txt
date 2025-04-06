@@ -1,0 +1,13 @@
+📊 Reporte semanal generado el Sun Apr  6 04:23:01 UTC 2025
+--------------------------------------
+📅 Ventas por mes:
+
+🎯 Producto más vendido:
+ con 0 unidades vendidas
+
+💰 Monto total anual:
+Total anual: 
+
+👤 Cliente más frecuente:
+ con 0 compras
+
